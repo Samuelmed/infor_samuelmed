@@ -11,8 +11,8 @@ Para resolver este ejercicio se ha usado la tecnología Java, en un msmo fichero
 4. **Cajero**: Clase principal que contiene una pequeña interfaz de texto para controlar el flujo de la aplicacion.
 
 ¿Qué acciones se pueden llevar a cabo?
-1.- Añadir nuevos elementos disponibles para comprar
-2.- Crear una lista de la compra
+1. Añadir nuevos elementos disponibles para comprar
+2. Crear una lista de la compra
 
 ###¿Cómo testearías la aplicación?
 Para testearla, crearía un fichero de texto con el formato adecuado, que respete 
