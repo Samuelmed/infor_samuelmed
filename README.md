@@ -1,4 +1,4 @@
-# infor_samuelmed
+# Liferay_samuelmed
 
 ## Ejercicio Graduate program 
 (Se puede encontrar en la rama master)
