@@ -1,6 +1,7 @@
 # infor_samuelmed
 
 ## Ejercicio Graduate program 
+(Se puede encontrar en la rama master)
 
 ###¿Cómo se ha resuelto?
 Para resolver este ejercicio se ha usado la tecnología Java, en un msmo fichero se han creado distintas clases
@@ -17,4 +18,4 @@ Para resolver este ejercicio se ha usado la tecnología Java, en un msmo fichero
 ###¿Cómo testearías la aplicación?
 
 Para testearla, crearía un fichero de texto con el formato adecuado, que respete 
-el flujo de la aplicación, comprobando que las salidas son lsa salidas esperadas.
+el flujo de la aplicación, comprobando que las salidas son las salidas esperadas con respecto a unas entradas determinadas.
